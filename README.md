@@ -1,5 +1,5 @@
 # HigherLowerGame
-for JAVAFX GUI
+For JAVAFX GUI, 
 We will need to download and add the JavaFX library to the project directory, and then add vm arguments for each module included in the library in the build path.
 
 First, we have to install eclipse plugins for JavaFX called e(fx)clipse or efxclipse.
