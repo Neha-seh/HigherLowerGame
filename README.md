@@ -13,7 +13,7 @@ Now, we have to download JAVAFX on our computer by following the instructions-
 
 Next thing we’ll be doing is creating an user library.
 
-Window -- Preferences -- User Libraries -- New -- Call it JavaFX
+Window -- Preferences -- User Libraries -- New -- Call it JavaFX         
      or      
 Right Click on the project-- Build path-- Configure biuld path-- Classpath---Add library-- User Librarries -- next --javafx
 
