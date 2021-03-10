@@ -14,7 +14,7 @@ Now, we have to download JAVAFX on our computer by following the instructions-
 Next thing we’ll be doing is creating an user library.
 
 Window -- Preferences -- User Libraries -- New -- Call it JavaFX
-or 
+     or      
 Right Click on the project-- Build path-- Configure biuld path-- Classpath---Add library-- User Librarries -- next --javafx
 
 Next, we need tu set up the run configuration by adding: --module-path "D:\javafx\javafx-sdk-14.0.1\lib" --add-modules javafx.controls,javafx.fxml to our VM arguments.
